@@ -1,0 +1,1 @@
+export { areYouKing } from './testFunction';

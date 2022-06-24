@@ -1,0 +1,29 @@
+{
+  "name": "utility-for-kings",
+  "version": "1.0.0",
+  "description": "Is this a test?",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edoardovincenzi/utility-for-kings-package.git"
+  },
+  "keywords": [
+    "KING"
+  ],
+  "author": "Edaordo Vincenzi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edoardovincenzi/utility-for-kings-package/issues"
+  },
+  "homepage": "https://github.com/edoardovincenzi/utility-for-kings-package#readme",
+  "dependencies": {
+    "typescript": "^4.7.4"
+  }
+}
